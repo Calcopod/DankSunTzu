@@ -1,0 +1,16 @@
+{
+  "name": "dank-suntzu",
+  "version": "1.0.0",
+  "description": "Dank Sun-Tzu quotes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Serban \"Calcopod\" Rosca",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "discord.js-commando": "git+https://github.com/discordjs/Commando.git",
+    "sun-tzu-quotes": "^1.0.0"
+  }
+}
